@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+html{
+ height: 100%;
+ width: 100%;
+}
+
+.head{
+    height:100px;
+    width: 100%;
+    background-color: aqua;
+    padding:10px;
+}
+.navbar{
+    height: 50px;
+    width: 100%;
+    padding:10px;
+    top:0;
+    position:sticky;
+    background-color: gold;
+}
+ul li{
+    display: inline-block;
+    list-style:none;
+    color:white;
+    line-height: 30px;
+    padding :10px;
+    text-transform: capitalize;
+}
+.footer{
+    margin-top:10px;
+    height:100px;
+    width: 100%;
+    background-color: red;
+    padding:10px;
+}
+.box{
+    padding: 10px;
+
+}

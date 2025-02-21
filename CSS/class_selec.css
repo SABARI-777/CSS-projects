@@ -1,0 +1,22 @@
+div a{
+    display: inline-block;
+    height: 30px;
+    background-color: aqua;
+    text-align: center;
+    width: 100px;
+    line-height: 30px;
+
+}
+a:hover{
+    background-color: rgb(255, 170, 0);
+    color: gray;
+}
+a:link{
+    color: green;
+}
+a:active{
+    color: rebeccapurple;
+}
+a:visited{
+    color: brown;
+}

@@ -1,0 +1,16 @@
+p{
+    padding: 10px;
+    background-color:var(--bgcolor);
+    color:var(--color);
+}
+h2{
+    font-family: impact;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-align: center;
+    color: var(--color);
+}
+:root{
+    --bgcolor:red;
+    --color:gold;
+}

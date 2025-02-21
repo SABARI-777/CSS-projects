@@ -1,0 +1,12 @@
+input::placeholder{
+    color:aqua;
+}
+
+p::selection{
+    background-color: green;
+    color: yellow;
+}
+p::first-letter{
+    font-size: 20px;
+    font-weight: bold;
+}

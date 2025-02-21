@@ -1,0 +1,11 @@
+img{
+    height: 400px;
+    width: 600px;
+    background-repeat: no-repeat;
+}
+div{
+    height: 530px;
+    border:1px solid #ccc;
+    padding:10px;
+    opacity: 1;
+}

@@ -1,0 +1,9 @@
+p{
+    padding:10px;
+    background-color: lightcyan;
+
+}
+p:target{
+    background-color: gold;
+    color: blue;
+}

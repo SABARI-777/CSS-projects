@@ -1,0 +1,21 @@
+#text:focus{
+    outline: none;
+    border: 3px solid red ;
+}
+input[type="checkbox"]:checked{
+    box-shadow: 0 0 0 3px red  ;
+}
+input[type="text"]:enabled{
+    background-color: lightcyan;
+}
+
+input[type="text"]:disabled{
+    background-color: lightgreen;
+}
+
+input[type="text"]:invalid{
+    border-color: red;
+}
+input[type="text"]:valid{
+    border-color: green;
+}
